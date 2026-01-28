@@ -30,7 +30,7 @@ This agent demonstrates a complete LangChain deployment pipeline:
 3. **Combines both** into a personalized welcome message
 4. **Deploys as API** in Docker/Podman container
 5. **Tests with Streamlit** interactive interface
-6. **Integrates with** IBM WatsonX Orchestrate as external agent
+
 
 ## Architecture
 
