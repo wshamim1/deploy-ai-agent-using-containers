@@ -36,7 +36,7 @@ This agent demonstrates a complete LangChain deployment pipeline:
 
 ```
 ┌─────────────────────────────────────┐
-│   Streamlit App (Port 8501)        │
+│   Streamlit App (Port 8501)         │
 │   - User Interface                  │
 │   - Test Controls                   │
 └──────────────┬──────────────────────┘
